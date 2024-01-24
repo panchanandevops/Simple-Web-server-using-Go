@@ -3,22 +3,12 @@
 
 This repository contains a basic GoLang implementation for a simple web server. The server serves static files and includes handlers for processing form submissions and responding with a "hello!" message.
 
-## Project Structure
 
-```
-.
-├── main.go
-├── README.md
-└── Static
-    ├── form.html
-    └── index.html
-```
 
-- `main.go`: Contains the main server implementation.
-- `README.md`: Project documentation.
-- `Static`: Directory containing static HTML files.
-  - `form.html`: HTML file with a simple form for user input.
-  - `index.html`: HTML file for a static website.
+## Project Overview Through Diagram
+
+![](./Diagram/Web-server.png)
+
 
 ## Usage
 
